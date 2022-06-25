@@ -1,0 +1,49 @@
+.container-fluid {
+  height: auto;
+}
+
+.col {
+  height: auto;
+}
+
+.menu-nav {
+  height: 140px;
+  background-color: black;
+}
+.menu-nav .col-md-4 {
+  display: flex;
+  align-items: center;
+}
+.menu-nav .col-md-4 .img-sz {
+  width: 82px;
+  height: 35px;
+  margin: 15px;
+}
+.menu-nav .col-md-8 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.menu-nav .col-md-8 .white-menu {
+  background-color: white;
+  width: 56px;
+  height: 22px;
+  border-radius: 17px 16px 16px 0;
+  text-align: center;
+  margin: 10px;
+}
+.menu-nav .col-md-8 ion-icon {
+  color: white;
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+}
+
+.breadcrumbs-menu {
+  height: 40px;
+}
+.breadcrumbs-menu .col-md-10 {
+  height: auto;
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=main.css.map */
