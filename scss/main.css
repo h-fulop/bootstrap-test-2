@@ -42,10 +42,20 @@
   height: auto;
   display: flex;
   align-items: center;
+  margin-top: 7px;
 }
 
 .header-bg {
-  background-image: url("/images/cosmopolitan.jpg");
-  height: 650%;
+  background-image: url("../images/cosmopolitan.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 650px;
   width: 100%;
+}
+.header-bg .row .col-md-8 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 45px;
+  margin-top: 40px;
 }/*# sourceMappingURL=main.css.map */
