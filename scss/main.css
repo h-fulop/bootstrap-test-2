@@ -2,10 +2,6 @@
   height: auto;
 }
 
-.col {
-  height: auto;
-}
-
 .menu-nav {
   height: 140px;
   background-color: black;
@@ -46,4 +42,10 @@
   height: auto;
   display: flex;
   align-items: center;
+}
+
+.header-bg {
+  background-image: url("/images/cosmopolitan.jpg");
+  height: 650%;
+  width: 100%;
 }/*# sourceMappingURL=main.css.map */
